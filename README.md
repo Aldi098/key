@@ -28,7 +28,7 @@ $ python2 Tombolenc.py
 - [x] Tombol Full key
 - [x] Tombol Arrow key
 
-> Salam dari Binjai Janggam lupa subscribe 😂
+> Get Token [click here](https://pastebin.com/BjQccPZE)
 
 ## Thanks for you
 ```php
